@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BD Bazar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_message">Message</string>
+    <string name="title_account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bd_bazar">BD BAZAR</string>
+    <string name="shopping">Shopping Center</string>
+</resources>
